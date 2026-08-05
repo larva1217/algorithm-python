@@ -15,3 +15,6 @@ print(queue)
 
 queue.popleft()
 print(queue)
+
+queue.popleft()
+print(queue)
