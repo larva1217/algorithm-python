@@ -1,5 +1,5 @@
 #큐
-#먼저 들어온 데이터가 먼저 출력
+#먼저 들어온 데이터가 먼저 출력(FIF)
 
 from collections import deque
 
